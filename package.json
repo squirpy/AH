@@ -1,0 +1,19 @@
+{
+  "name": "ah",
+  "version": "1.0.0",
+  "description": "Portfolio Website",
+  "author": "Andrew Hall",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-bower-concat": "^1.0.0",
+    "grunt-concat-css": "^0.3.1",
+    "grunt-contrib-concat": "^0.5.1",
+    "grunt-contrib-connect": "^0.11.2",
+    "grunt-contrib-cssmin": "^0.14.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-eslint": "^18.0.0",
+    "grunt-grunticon": "^2.2.2",
+    "grunt-wiredep": "^2.0.0"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "ah",
+  "description": "Portfolio Website",
+  "main": "",
+  "authors": [
+    "Andrew Hall"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.0",
+    "owl.carousel": "^2.0.0-beta.3",
+    "fullpage.js": "^2.7.7"
+  }
+}

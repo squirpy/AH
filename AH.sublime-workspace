@@ -1,0 +1,568 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"de",
+				"development"
+			],
+			[
+				"CON",
+				"concat_css"
+			],
+			[
+				"t",
+				"true"
+			],
+			[
+				"co",
+				"connect"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"j",
+				"justify-content"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"margin-",
+				"margin-right"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"padding-",
+				"padding-right"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"eas",
+				"ease-in"
+			],
+			[
+				"e",
+				"ease-in"
+			],
+			[
+				"c",
+				"c26c10"
+			],
+			[
+				"animation",
+				"animation-delay"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"pos",
+				"pos-a	position: absolute;"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"l",
+				"li	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "builds/development/index.html",
+			"settings":
+			{
+				"buffer_size": 23211,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "gruntfile.js",
+			"settings":
+			{
+				"buffer_size": 1821,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "components/scripts/AHfullpage.js",
+			"settings":
+			{
+				"buffer_size": 4875,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "components/css/AHstyles.css",
+			"settings":
+			{
+				"buffer_size": 4089,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 27.0,
+		"last_filter": "colo",
+		"selected_items":
+		[
+			[
+				"colo",
+				"Color Picker"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"packege ",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"read",
+				"ReadmePlease"
+			],
+			[
+				"package i",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 453.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Xerxes/Google Drive/HOME/projects/portfolio website/AHgrunt",
+		"/Users/Xerxes/Google Drive/HOME/projects/portfolio website/AH",
+		"/Users/Xerxes/Google Drive/HOME/projects/portfolio website/AH/builds",
+		"/Users/Xerxes/Google Drive/HOME/projects/portfolio website/AH/builds/development",
+		"/Users/Xerxes/Google Drive/HOME/projects/portfolio website/AH/builds/development/js",
+		"/Users/Xerxes/Google Drive/HOME/projects/portfolio website/AH/components",
+		"/Users/Xerxes/Google Drive/HOME/projects/portfolio website/AH/components/css",
+		"/Users/Xerxes/Google Drive/HOME/projects/portfolio website/AH/components/scripts"
+	],
+	"file_history":
+	[
+		"/Users/Xerxes/Google Drive/HOME/projects/portfolio website/AH/gruntfile.js",
+		"/Users/Xerxes/Google Drive/HOME/projects/portfolio website/AHgrunt/components/scripts/AHfullpage.js",
+		"/Users/Xerxes/Google Drive/HOME/projects/portfolio website/AHgrunt/builds/development/index.html",
+		"/Users/Xerxes/Google Drive/HOME/projects/portfolio website/AHgrunt/components/css/AHstyles.css",
+		"/Users/Xerxes/Google Drive/HOME/projects/portfolio website/AHgrunt/bower_components/jquery/dist/jquery.js",
+		"/Users/Xerxes/Google Drive/HOME/projects/portfolio website/AHgrunt/builds/development/js/_bower.js",
+		"/Users/Xerxes/Google Drive/HOME/projects/portfolio website/AHgrunt/gruntfile.js",
+		"/Users/Xerxes/Google Drive/HOME/projects/portfolio website/AHgrunt/builds/development/css/_bower.css",
+		"/Users/Xerxes/Google Drive/HOME/projects/portfolio website/AHgrunt/bower_components/owl.carousel/bower.json",
+		"/Users/Xerxes/Google Drive/HOME/projects/portfolio website/AHgrunt/bower.json",
+		"/Users/Xerxes/Google Drive/HOME/projects/portfolio website/AHgrunt/bower_components/fullpage.js/bower.json",
+		"/Users/Xerxes/Google Drive/HOME/projects/portfolio website/AH (grunt rebuild)/builds/development/index.html",
+		"/Users/Xerxes/Google Drive/HOME/projects/portfolio website/AH (grunt rebuild)/builds/development/js/script.js",
+		"/Users/Xerxes/Google Drive/HOME/projects/portfolio website/AH/builds/development/css/styles.css",
+		"/Users/Xerxes/Google Drive/HOME/projects/portfolio website/AH/builds/development/css/reset.css",
+		"/Users/Xerxes/Google Drive/HOME/projects/portfolio website/AH/builds/development/css/AH.css",
+		"/Users/Xerxes/Google Drive/HOME/projects/owl-carousel test/index.html",
+		"/Users/Xerxes/Google Drive/HOME/projects/portfolio website/AH/index.html",
+		"/Users/Xerxes/Google Drive/HOME/projects/portfolio website/AH/AH.css",
+		"/Users/Xerxes/Google Drive/HOME/projects/portfolio website/AH/AH.js",
+		"/Users/Xerxes/Desktop/fullPage.js-master/AH.css",
+		"/Users/Xerxes/Desktop/fullPage.js-master/index.html",
+		"/Users/Xerxes/Desktop/fullPage.js-master/examples/examples.css",
+		"/Users/Xerxes/Desktop/fullPage.js-master/examples/methods.html",
+		"/Users/Xerxes/Google Drive/HOME/projects/portfolio website/AH (broke)/AH.css",
+		"/Users/Xerxes/Google Drive/HOME/projects/portfolio website/AH (broke)/AH.html",
+		"/Users/Xerxes/Desktop/rebuild attempt/examples/AH.html",
+		"/Users/Xerxes/Desktop/rebuild attempt/examples/AH.css",
+		"/Users/Xerxes/Desktop/AH rebuild attempt/methods.html",
+		"/Users/Xerxes/Google Drive/HOME/frameworks/fullpageJS/main.css",
+		"/Users/Xerxes/Desktop/further.css",
+		"/Users/Xerxes/Google Drive/HOME/projects/portfolio website/AH/jquery.fullPage.js",
+		"/Users/Xerxes/Google Drive/HOME/projects/portfolio website/AH/jquery.fullPage.css",
+		"/Users/Xerxes/Google Drive/HOME/projects/portfolio website/AH/AH.html",
+		"/Users/Xerxes/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Xerxes/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/README.md",
+		"/Users/Xerxes/Google Drive/HOME/projects/jquery animation practice/script.js",
+		"/Users/Xerxes/Google Drive/HOME/projects/jquery animation practice/index.css",
+		"/Users/Xerxes/Google Drive/HOME/projects/jquery animation practice/index.html",
+		"/Users/Xerxes/Google Drive/HOME/projects/BAREBONE SITE TO DUPE/index.css",
+		"/Users/Xerxes/Google Drive/HOME/projects/BAREBONE SITE TO DUPE/script.js",
+		"/Users/Xerxes/Google Drive/HOME/projects/BAREBONE SITE TO DUPE/index.html",
+		"/Users/Xerxes/Google Drive/HOME/projects/jquery animation/script.js",
+		"/Users/Xerxes/Desktop/Lynda - Up and Running with Sublime Text 2/Ex_Files_UaR_SublimeTxt_2/Exercise Files/roux_website/index.htm",
+		"/Users/Xerxes/Desktop/Lynda - Up and Running with Sublime Text 2/Ex_Files_UaR_SublimeTxt_2/Exercise Files/roux_website/spotlight.htm",
+		"/Users/Xerxes/Google Drive/HOME/projects/jquery animation/jquery-2.2.0.js",
+		"/Users/Xerxes/Google Drive/HOME/documents/WEBSITES/ah/jquery animation/jquery-2.2.0.js",
+		"/Users/Xerxes/Google Drive/HOME/documents/WEBSITES/ah/jquery animation/script.js",
+		"/Users/Xerxes/Google Drive/HOME/documents/WEBSITES/ah/jquery animation/index.css",
+		"/Users/Xerxes/Google Drive/HOME/documents/WEBSITES/ah/jquery animation/index.html",
+		"/Users/Xerxes/Google Drive/HOME/documents/WEBSITES/ah/AH/jquery.fullPage.css",
+		"/Users/Xerxes/Google Drive/HOME/documents/WEBSITES/ah/AH/AH.css",
+		"/Users/Xerxes/Google Drive/HOME/documents/WEBSITES/ah/AH/jquery.fullPage.js",
+		"/Users/Xerxes/Google Drive/HOME/documents/WEBSITES/ah/AH/AH.html",
+		"/Users/Xerxes/Google Drive/HOME/documents/WEBSITES/ah/first stab/index.html",
+		"/Users/Xerxes/Google Drive/HOME/documents/WEBSITES/ah/first stab/index.css",
+		"/Users/Xerxes/Google Drive/HOME/documents/WEBSITES/ah/AH/examples/AH.html",
+		"/Users/Xerxes/Desktop/mySite/fullPage.js-master/dist/jquery.fullpage.js",
+		"/Users/Xerxes/Google Drive/HOME/software/Lynda Exercise Files/HTML Essential Training/Chap05/Scissors/rps.css",
+		"/Users/Xerxes/Google Drive/HOME/software/Lynda Exercise Files/HTML Essential Training/Chap17/scissors.html",
+		"/Users/Xerxes/Desktop/untitled copy/css/index-grid.css",
+		"/Users/Xerxes/Desktop/untitled/logo.html",
+		"/Users/Xerxes/Desktop/mySite/MySite.html",
+		"/Users/Xerxes/Desktop/untitled copy/index.html",
+		"/Users/Xerxes/Desktop/untitled/css/index-grid.css",
+		"/Users/Xerxes/Desktop/PRACTICE WEBSITE/test.js",
+		"/Users/Xerxes/Desktop/PRACTICE WEBSITE/test.html",
+		"/Users/Xerxes/Desktop/PRACTICE WEBSITE/test.css",
+		"/Users/Xerxes/Programs/html/rps.css",
+		"/Users/Xerxes/Programs/html/ninja.html",
+		"/Users/Xerxes/Desktop/untitled/index.html",
+		"/Users/Xerxes/Desktop/untitled/templates.html",
+		"/Users/Xerxes/Google Drive/HOME/software/Lynda Exercise Files/HTML Essential Training/Chap03/style.html",
+		"/Users/Xerxes/Google Drive/HOME/software/Lynda Exercise Files/HTML Essential Training/Chap03/javascript.html",
+		"/Users/Xerxes/Google Drive/HOME/software/Lynda Exercise Files/HTML Essential Training/Chap01/structure.html",
+		"/Users/Xerxes/Desktop/jquery-2.1.3.js"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"owl",
+			"ready",
+			"<script src=\"js/script.js\"></script>",
+			"<script src=\"../../AH.js\"></script>",
+			"bord",
+			"*{\n\n	border: 1px solid white;\n}\n",
+			"font",
+			"	\n",
+			"width",
+			"media",
+			"scrollbar",
+			"javascript",
+			"div",
+			"nav",
+			"arrow",
+			"menu",
+			"resiz",
+			"font",
+			"menu"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "builds/development/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 23211,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "gruntfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1821,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								420,
+								420
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "components/scripts/AHfullpage.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4875,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								60,
+								60
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "components/css/AHstyles.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4089,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.552585515053,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "AH.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/AH rebuild attempt/rebuild.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 183.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
