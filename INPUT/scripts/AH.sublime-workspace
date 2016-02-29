@@ -120,7 +120,7 @@
 	"buffers":
 	[
 		{
-			"file": "OUTPUT/index.html",
+			"file": "/Users/Xerxes/Documents/Websites/AH/AH/OUTPUT/index.html",
 			"settings":
 			{
 				"buffer_size": 23925,
@@ -128,7 +128,7 @@
 			}
 		},
 		{
-			"file": "gruntfile.js",
+			"file": "/Users/Xerxes/Documents/Websites/AH/AH/gruntfile.js",
 			"settings":
 			{
 				"buffer_size": 1732,
@@ -136,7 +136,7 @@
 			}
 		},
 		{
-			"file": "INPUT/css/AHstyles.css",
+			"file": "/Users/Xerxes/Documents/Websites/AH/AH/INPUT/css/AHstyles.css",
 			"settings":
 			{
 				"buffer_size": 3984,
@@ -144,7 +144,7 @@
 			}
 		},
 		{
-			"file": "INPUT/scripts/AHfullpage.js",
+			"file": "AHfullpage.js",
 			"settings":
 			{
 				"buffer_size": 5114,
@@ -362,7 +362,7 @@
 			[
 				{
 					"buffer": 0,
-					"file": "OUTPUT/index.html",
+					"file": "/Users/Xerxes/Documents/Websites/AH/AH/OUTPUT/index.html",
 					"semi_transient": false,
 					"settings":
 					{
@@ -391,7 +391,7 @@
 				},
 				{
 					"buffer": 1,
-					"file": "gruntfile.js",
+					"file": "/Users/Xerxes/Documents/Websites/AH/AH/gruntfile.js",
 					"semi_transient": false,
 					"settings":
 					{
@@ -426,7 +426,7 @@
 			[
 				{
 					"buffer": 2,
-					"file": "INPUT/css/AHstyles.css",
+					"file": "/Users/Xerxes/Documents/Websites/AH/AH/INPUT/css/AHstyles.css",
 					"semi_transient": false,
 					"settings":
 					{
@@ -455,7 +455,7 @@
 				},
 				{
 					"buffer": 3,
-					"file": "INPUT/scripts/AHfullpage.js",
+					"file": "AHfullpage.js",
 					"semi_transient": false,
 					"settings":
 					{
